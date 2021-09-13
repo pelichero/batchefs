@@ -1,0 +1,12 @@
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/producer/SimpleMessageProducer.java
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/config/AWSConfigConstants.java
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/model/EventData.java
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/model/Event.java
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/listener/SimpleMessageConsumer.java
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/listener/SimpleMessageConsumer2.java
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/SpringCloudAwsApplication.java
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/listener/MessageConsumer.java
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/model/EventType.java
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/config/SnsConfig.java
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/controller/OrderController.java
+/media/felipe/Everything/projects/spring-cloud-messaging-sample/src/main/java/com/authga/springcloudaws/config/SqsConfig.java
